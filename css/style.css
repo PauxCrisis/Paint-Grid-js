@@ -1,0 +1,36 @@
+.red{
+    background-color: #D32E1A;
+}
+.black{
+    background-color: black;
+}
+.white{
+    background-color: white;
+}
+.yellow{
+    background-color: #F1F235;
+}
+.green{
+    background-color: #59DB21;
+}
+.brown{
+    background-color: #792C14;
+}
+.purple{
+    background-color: #A445A3;
+}
+.azul{
+    background-color: #45A3A4;
+}
+table{
+    border: 1px solid black;
+}
+.painterBlock{
+    width: 25px;
+    height: 25px;
+}
+.color{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+}
